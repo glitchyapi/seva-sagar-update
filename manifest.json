@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "app": "seva-sagar",
+ "versionName": "1.0.0",
+ "versionCode": 1,
+ "minShellVersion": 1,
+ "force": false,
+ "publishedAt": "2026-11-07T04:18:15Z",
+ "notes": {
+  "en": "First release: seva diary, bhandara banners, encrypted local vault, delta OTA updates.",
+  "hi": "पहला रिलीज़: सेवा डायरी, भंडारा बैनर, एन्क्रिप्टेड लोकल वॉल्ट, डेल्टा OTA अपडेट।",
+  "pa": "ਪਹਿਲੀ ਰਿਲੀਜ਼: ਸੇਵਾ ਡਾਇਰੀ, ਭੰਡਾਰਾ ਬੈਨਰ, ਐਨਕ੍ਰਿਪਟਡ ਲੋਕਲ ਵਾਲਟ, ਡੈਲਟਾ OTA ਅੱਪਡੇਟ।"
+ },
+ "base": "https://glitchyapi.github.io/seva-sagar-update/files",
+ "mirrors": [
+  "https://raw.githubusercontent.com/glitchyapi/seva-sagar-update/main"
+ ],
+ "files": [
+  {
+   "path": "css/app.css",
+   "sha256": "9fa7d8d835452e98e29343150984982642a0e7e4f36410cba4fa345e37a5cc87",
+   "size": 12219
+  },
+  {
+   "path": "i18n/en.json",
+   "sha256": "8f9b3345e9b5c31ddbd02a3d4d62672af61114ceec8c38928345f6ac4858f1a5",
+   "size": 5499
+  },
+  {
+   "path": "i18n/hi.json",
+   "sha256": "5f826edad81f550f598263b9007e2b698e54e17405b78bdb6fee3206dab75865",
+   "size": 9271
+  },
+  {
+   "path": "i18n/pa.json",
+   "sha256": "cbdb9b48c678b8bee3b32698126de3da8877bdac713a9f9bf3f449bac7d0e294",
+   "size": 9208
+  },
+  {
+   "path": "index.html",
+   "sha256": "89205728b25bc4ab1241af6ccd4e0a4cfc2dc5c51a17fda9d1a6077cb41f56ab",
+   "size": 1154
+  },
+  {
+   "path": "js/app.js",
+   "sha256": "9e9e04673677a41328a674c8d28b3b27144babda2f894934164edbece5a91aaf",
+   "size": 46919
+  }
+ ]
+}
