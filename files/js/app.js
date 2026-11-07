@@ -589,7 +589,7 @@ async function render() {
 
 function go(tab) {
   currentTab = tab;
-  $$('#nav button').forEach(b => b.classList.toggle('on', b.dataset.tab === tab));
+  $$('nav.bottom button').forEach(b => b.classList.toggle('on', b.dataset.tab === tab));
   render();
 }
 
