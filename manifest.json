@@ -5,7 +5,7 @@
  "versionCode": 1,
  "minShellVersion": 1,
  "force": false,
- "publishedAt": "2026-11-07T04:18:15Z",
+ "publishedAt": "2026-11-07T04:25:15Z",
  "notes": {
   "en": "First release: seva diary, bhandara banners, encrypted local vault, delta OTA updates.",
   "hi": "पहला रिलीज़: सेवा डायरी, भंडारा बैनर, एन्क्रिप्टेड लोकल वॉल्ट, डेल्टा OTA अपडेट।",
@@ -18,8 +18,8 @@
  "files": [
   {
    "path": "css/app.css",
-   "sha256": "9fa7d8d835452e98e29343150984982642a0e7e4f36410cba4fa345e37a5cc87",
-   "size": 12219
+   "sha256": "63e79630d4d2aa6b476bb682f4bfd661238393766e5eca38a7c2788d75bfae04",
+   "size": 12320
   },
   {
    "path": "i18n/en.json",
@@ -43,8 +43,8 @@
   },
   {
    "path": "js/app.js",
-   "sha256": "9e9e04673677a41328a674c8d28b3b27144babda2f894934164edbece5a91aaf",
-   "size": 46919
+   "sha256": "f81636e2197abc8c9ef7f4e0e4c208ea68ef4a737d735fbc2d8ab3945df3accb",
+   "size": 46925
   }
  ]
 }
